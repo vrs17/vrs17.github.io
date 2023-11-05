@@ -1,0 +1,26 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+    background-color: #404040;
+}
+h1, h2{
+    color: rgb(75, 179, 0);
+}
+p, li{
+    color: white;
+}
+a{
+    color: rgb(193, 193, 193);
+}
+
+b{
+    color: yellow;
+}
+img{
+    height: 200px;
+}
+.moods{
+    display: flex;
+
+}
